@@ -1,4 +1,4 @@
-# SoftUni-C#-Advanced Course
+# SoftUni C# Advanced Course
 - Stacks and Queues
 - Sets and Dictionaries
 - Matrices
