@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\1.ReverseString\bin\Debug\1.ReverseString.exe.config

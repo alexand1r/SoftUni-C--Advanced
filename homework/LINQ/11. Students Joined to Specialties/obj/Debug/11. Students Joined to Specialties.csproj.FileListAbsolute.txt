@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\11. Students Joined to Specialties\bin\Debug\_11.Students_Joined_to_Specialties.exe.config

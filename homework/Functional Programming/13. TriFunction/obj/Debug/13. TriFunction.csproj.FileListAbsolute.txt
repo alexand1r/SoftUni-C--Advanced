@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\13. TriFunction\bin\Debug\_13.TriFunction.exe.config

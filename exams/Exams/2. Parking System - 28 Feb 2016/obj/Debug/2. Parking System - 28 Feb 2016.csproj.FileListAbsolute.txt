@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\exams\Exams\2. Parking System - 28 Feb 2016\bin\Debug\_2.Parking_System___28_Feb_2016.exe.config
+C:\softuni\C# Advanced\exams\Exams\2. Parking System - 28 Feb 2016\bin\Debug\_2.Parking_System___28_Feb_2016.exe
+C:\softuni\C# Advanced\exams\Exams\2. Parking System - 28 Feb 2016\bin\Debug\_2.Parking_System___28_Feb_2016.pdb
+C:\softuni\C# Advanced\exams\Exams\2. Parking System - 28 Feb 2016\obj\Debug\2. Parking System - 28 Feb 2016.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\exams\Exams\2. Parking System - 28 Feb 2016\obj\Debug\_2.Parking_System___28_Feb_2016.exe
+C:\softuni\C# Advanced\exams\Exams\2. Parking System - 28 Feb 2016\obj\Debug\_2.Parking_System___28_Feb_2016.pdb

@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\5.ConcatenateStrings\bin\Debug\5.ConcatenateStrings.exe.config

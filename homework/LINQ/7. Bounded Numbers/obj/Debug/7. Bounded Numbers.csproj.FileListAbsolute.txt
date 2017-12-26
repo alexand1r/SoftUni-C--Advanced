@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\7. Bounded Numbers\bin\Debug\_7.Bounded_Numbers.exe.config

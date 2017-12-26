@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\exams\Exams\2. Jedi Galaxy - 13 June 2016\bin\Debug\_2.Jedi_Galaxy___13_June_2016.exe.config
+C:\softuni\C# Advanced\exams\Exams\2. Jedi Galaxy - 13 June 2016\bin\Debug\_2.Jedi_Galaxy___13_June_2016.exe
+C:\softuni\C# Advanced\exams\Exams\2. Jedi Galaxy - 13 June 2016\bin\Debug\_2.Jedi_Galaxy___13_June_2016.pdb
+C:\softuni\C# Advanced\exams\Exams\2. Jedi Galaxy - 13 June 2016\obj\Debug\2. Jedi Galaxy - 13 June 2016.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\exams\Exams\2. Jedi Galaxy - 13 June 2016\obj\Debug\_2.Jedi_Galaxy___13_June_2016.exe
+C:\softuni\C# Advanced\exams\Exams\2. Jedi Galaxy - 13 June 2016\obj\Debug\_2.Jedi_Galaxy___13_June_2016.pdb

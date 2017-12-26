@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\StacksAndQueues\7.BalancedParenthesis\bin\Debug\7.BalancedParenthesis.exe.config

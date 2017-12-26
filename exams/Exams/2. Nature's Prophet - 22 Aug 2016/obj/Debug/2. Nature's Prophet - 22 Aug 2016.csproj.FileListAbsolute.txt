@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\exams\Exams\2. Nature's Prophet - 22 Aug 2016\bin\Debug\_2.Nature_s_Prophet___22_Aug_2016.exe.config
+C:\softuni\C# Advanced\exams\Exams\2. Nature's Prophet - 22 Aug 2016\bin\Debug\_2.Nature_s_Prophet___22_Aug_2016.exe
+C:\softuni\C# Advanced\exams\Exams\2. Nature's Prophet - 22 Aug 2016\bin\Debug\_2.Nature_s_Prophet___22_Aug_2016.pdb
+C:\softuni\C# Advanced\exams\Exams\2. Nature's Prophet - 22 Aug 2016\obj\Debug\_2.Nature_s_Prophet___22_Aug_2016.exe
+C:\softuni\C# Advanced\exams\Exams\2. Nature's Prophet - 22 Aug 2016\obj\Debug\_2.Nature_s_Prophet___22_Aug_2016.pdb

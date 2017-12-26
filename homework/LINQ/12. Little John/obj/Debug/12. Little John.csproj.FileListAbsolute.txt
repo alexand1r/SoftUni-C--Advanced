@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\12. Little John\bin\Debug\_12.Little_John.exe.config

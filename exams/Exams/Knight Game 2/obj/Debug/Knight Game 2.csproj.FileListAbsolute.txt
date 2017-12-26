@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\exams\Exams\Knight Game 2\bin\Debug\Knight Game 2.exe.config

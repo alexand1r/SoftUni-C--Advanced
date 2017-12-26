@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\3. First Name\bin\Debug\_3.First_Name.exe.config

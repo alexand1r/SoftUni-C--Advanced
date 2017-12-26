@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\exams\Exams\Number Wars\bin\Debug\Number Wars.exe.config
+C:\softuni\C# Advanced\exams\Exams\Number Wars\bin\Debug\Number Wars.exe
+C:\softuni\C# Advanced\exams\Exams\Number Wars\bin\Debug\Number Wars.pdb
+C:\softuni\C# Advanced\exams\Exams\Number Wars\obj\Debug\Number Wars.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\exams\Exams\Number Wars\obj\Debug\Number Wars.exe
+C:\softuni\C# Advanced\exams\Exams\Number Wars\obj\Debug\Number Wars.pdb

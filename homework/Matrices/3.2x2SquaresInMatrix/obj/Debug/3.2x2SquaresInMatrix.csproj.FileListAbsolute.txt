@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Matrices\3.2x2SquaresInMatrix\bin\Debug\3.2x2SquaresInMatrix.exe.config

@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\exams\Exams\Selective Amnesia\bin\Debug\Selective Amnesia.exe.config
+C:\softuni\C# Advanced\exams\Exams\Selective Amnesia\bin\Debug\Selective Amnesia.exe
+C:\softuni\C# Advanced\exams\Exams\Selective Amnesia\bin\Debug\Selective Amnesia.pdb
+C:\softuni\C# Advanced\exams\Exams\Selective Amnesia\obj\Debug\Selective Amnesia.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\exams\Exams\Selective Amnesia\obj\Debug\Selective Amnesia.exe
+C:\softuni\C# Advanced\exams\Exams\Selective Amnesia\obj\Debug\Selective Amnesia.pdb

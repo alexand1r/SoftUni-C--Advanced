@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\StacksAndQueues\8.RecursiveFibonacci\bin\Debug\8.RecursiveFibonacci.exe.config

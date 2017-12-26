@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\1. Action Print\bin\Debug\_1.Action_Print.exe.config

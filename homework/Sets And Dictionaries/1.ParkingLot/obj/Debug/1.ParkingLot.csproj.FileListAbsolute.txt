@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\1.ParkingLot\bin\Debug\1.ParkingLot.exe.config
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\1.ParkingLot\bin\Debug\1.ParkingLot.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\1.ParkingLot\bin\Debug\1.ParkingLot.pdb
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\1.ParkingLot\obj\Debug\1.ParkingLot.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\1.ParkingLot\obj\Debug\1.ParkingLot.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\1.ParkingLot\obj\Debug\1.ParkingLot.pdb

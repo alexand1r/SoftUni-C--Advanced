@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\10. Group by Group\bin\Debug\_10.Group_by_Group.exe.config

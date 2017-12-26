@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\StacksAndQueues\3.MaximumElement\bin\Debug\3.MaximumElement.exe.config
+C:\softuni\C# Advanced\homework\StacksAndQueues\3.MaximumElement\bin\Debug\3.MaximumElement.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\3.MaximumElement\bin\Debug\3.MaximumElement.pdb
+C:\softuni\C# Advanced\homework\StacksAndQueues\3.MaximumElement\obj\Debug\3.MaximumElement.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\3.MaximumElement\obj\Debug\3.MaximumElement.pdb

@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\StacksAndQueues\4.BasicQueueOperations\bin\Debug\4.BasicQueueOperations.exe.config
+C:\softuni\C# Advanced\homework\StacksAndQueues\4.BasicQueueOperations\bin\Debug\4.BasicQueueOperations.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\4.BasicQueueOperations\bin\Debug\4.BasicQueueOperations.pdb
+C:\softuni\C# Advanced\homework\StacksAndQueues\4.BasicQueueOperations\obj\Debug\4.BasicQueueOperations.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\4.BasicQueueOperations\obj\Debug\4.BasicQueueOperations.pdb

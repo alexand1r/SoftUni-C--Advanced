@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\5.Phonebook\bin\Debug\5.Phonebook.exe.config

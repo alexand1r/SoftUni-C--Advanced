@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.exe.config

@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\Matrices\2.SquareWithMaximumSum\bin\Debug\2.SquareWithMaximumSum.exe.config
+C:\softuni\C# Advanced\homework\Matrices\2.SquareWithMaximumSum\bin\Debug\2.SquareWithMaximumSum.exe
+C:\softuni\C# Advanced\homework\Matrices\2.SquareWithMaximumSum\bin\Debug\2.SquareWithMaximumSum.pdb
+C:\softuni\C# Advanced\homework\Matrices\2.SquareWithMaximumSum\obj\Debug\2.SquareWithMaximumSum.exe
+C:\softuni\C# Advanced\homework\Matrices\2.SquareWithMaximumSum\obj\Debug\2.SquareWithMaximumSum.pdb

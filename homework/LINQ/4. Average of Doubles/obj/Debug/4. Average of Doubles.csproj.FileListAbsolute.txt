@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\4. Average of Doubles\bin\Debug\_4.Average_of_Doubles.exe.config

@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\5. Min Even Number\bin\Debug\_5.Min_Even_Number.exe.config

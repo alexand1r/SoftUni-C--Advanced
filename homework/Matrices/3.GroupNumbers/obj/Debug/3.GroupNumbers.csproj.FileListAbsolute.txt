@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\Matrices\3.GroupNumbers\bin\Debug\3.GroupNumbers.exe.config
+C:\softuni\C# Advanced\homework\Matrices\3.GroupNumbers\bin\Debug\3.GroupNumbers.exe
+C:\softuni\C# Advanced\homework\Matrices\3.GroupNumbers\bin\Debug\3.GroupNumbers.pdb
+C:\softuni\C# Advanced\homework\Matrices\3.GroupNumbers\obj\Debug\3.GroupNumbers.exe
+C:\softuni\C# Advanced\homework\Matrices\3.GroupNumbers\obj\Debug\3.GroupNumbers.pdb

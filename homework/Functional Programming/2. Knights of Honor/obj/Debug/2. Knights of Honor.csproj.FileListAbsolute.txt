@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\2. Knights of Honor\bin\Debug\_2.Knights_of_Honor.exe.config

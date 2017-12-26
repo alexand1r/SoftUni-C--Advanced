@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\3. Count Uppercase Words\bin\Debug\_3.Count_Uppercase_Words.exe.config

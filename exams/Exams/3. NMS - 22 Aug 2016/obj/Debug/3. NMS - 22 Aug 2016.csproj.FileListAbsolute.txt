@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\exams\Exams\3. NMS - 22 Aug 2016\bin\Debug\_3.NMS___22_Aug_2016.exe.config
+C:\softuni\C# Advanced\exams\Exams\3. NMS - 22 Aug 2016\bin\Debug\_3.NMS___22_Aug_2016.exe
+C:\softuni\C# Advanced\exams\Exams\3. NMS - 22 Aug 2016\bin\Debug\_3.NMS___22_Aug_2016.pdb
+C:\softuni\C# Advanced\exams\Exams\3. NMS - 22 Aug 2016\obj\Debug\3. NMS - 22 Aug 2016.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\exams\Exams\3. NMS - 22 Aug 2016\obj\Debug\_3.NMS___22_Aug_2016.exe
+C:\softuni\C# Advanced\exams\Exams\3. NMS - 22 Aug 2016\obj\Debug\_3.NMS___22_Aug_2016.pdb

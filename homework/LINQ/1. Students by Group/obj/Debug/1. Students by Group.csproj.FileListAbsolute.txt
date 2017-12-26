@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\1. Students by Group\bin\Debug\_1.Students_by_Group.exe.config

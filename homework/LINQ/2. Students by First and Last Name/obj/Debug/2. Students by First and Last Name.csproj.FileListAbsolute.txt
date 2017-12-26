@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\2. Students by First and Last Name\bin\Debug\_2.Students_by_First_and_Last_Name.exe.config

@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\2.SoftUniParty\bin\Debug\2.SoftUniParty.exe.config
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\2.SoftUniParty\bin\Debug\2.SoftUniParty.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\2.SoftUniParty\bin\Debug\2.SoftUniParty.pdb
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\2.SoftUniParty\obj\Debug\2.SoftUniParty.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\2.SoftUniParty\obj\Debug\2.SoftUniParty.pdb

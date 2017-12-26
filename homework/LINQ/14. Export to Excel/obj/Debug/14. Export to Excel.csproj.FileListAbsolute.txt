@@ -1,0 +1,2 @@
+C:\softuni\C# Advanced\homework\LINQ\14. Export to Excel\bin\Debug\_14.Export_to_Excel.exe.config
+C:\softuni\C# Advanced\homework\LINQ\14. Export to Excel\obj\Debug\14. Export to Excel.csprojFakesResolveAssemblyReference.cache

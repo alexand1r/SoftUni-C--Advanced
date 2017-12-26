@@ -1,0 +1,2 @@
+C:\softuni\C# Advanced\homework\LINQ\14. Export to Excel\obj\Debug\Fakes\moie\b\Microsoft.Office.Interop.Excel.12.0.0.0.Fakes.xml
+C:\softuni\C# Advanced\homework\LINQ\14. Export to Excel\obj\Debug\Fakes\moie\o\f.csprojResolveAssemblyReference.cache

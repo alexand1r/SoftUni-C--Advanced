@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\4.ConvertFromBase-10ToBase-N\bin\Debug\4.ConvertFromBase-10ToBase-N.exe.config

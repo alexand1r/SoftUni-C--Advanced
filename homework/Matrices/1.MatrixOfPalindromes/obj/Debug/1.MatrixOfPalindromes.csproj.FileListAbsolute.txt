@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Matrices\1.MatrixOfPalindromes\bin\Debug\1.MatrixOfPalindromes.exe.config

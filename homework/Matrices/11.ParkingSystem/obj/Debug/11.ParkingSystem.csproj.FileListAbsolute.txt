@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\Matrices\11.ParkingSystem\bin\Debug\11.ParkingSystem.exe.config
+C:\softuni\C# Advanced\homework\Matrices\11.ParkingSystem\bin\Debug\11.ParkingSystem.exe
+C:\softuni\C# Advanced\homework\Matrices\11.ParkingSystem\bin\Debug\11.ParkingSystem.pdb
+C:\softuni\C# Advanced\homework\Matrices\11.ParkingSystem\obj\Debug\11.ParkingSystem.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\Matrices\11.ParkingSystem\obj\Debug\11.ParkingSystem.exe
+C:\softuni\C# Advanced\homework\Matrices\11.ParkingSystem\obj\Debug\11.ParkingSystem.pdb

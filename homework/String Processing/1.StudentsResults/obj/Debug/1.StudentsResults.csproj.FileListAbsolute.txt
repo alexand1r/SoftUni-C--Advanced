@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\String Processing\1.StudentsResults\bin\Debug\1.StudentsResults.exe.config
+C:\softuni\C# Advanced\homework\String Processing\1.StudentsResults\bin\Debug\1.StudentsResults.exe
+C:\softuni\C# Advanced\homework\String Processing\1.StudentsResults\bin\Debug\1.StudentsResults.pdb
+C:\softuni\C# Advanced\homework\String Processing\1.StudentsResults\obj\Debug\1.StudentsResults.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\String Processing\1.StudentsResults\obj\Debug\1.StudentsResults.exe
+C:\softuni\C# Advanced\homework\String Processing\1.StudentsResults\obj\Debug\1.StudentsResults.pdb

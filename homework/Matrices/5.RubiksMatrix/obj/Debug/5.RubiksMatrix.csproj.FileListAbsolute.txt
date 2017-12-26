@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Matrices\5.RubiksMatrix\bin\Debug\5.RubiksMatrix.exe.config

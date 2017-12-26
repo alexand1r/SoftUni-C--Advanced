@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\String Processing\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe.config
+C:\softuni\C# Advanced\homework\String Processing\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe
+C:\softuni\C# Advanced\homework\String Processing\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.pdb
+C:\softuni\C# Advanced\homework\String Processing\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\String Processing\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.exe
+C:\softuni\C# Advanced\homework\String Processing\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.pdb

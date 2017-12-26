@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\4.SpecialWords\bin\Debug\4.SpecialWords.exe.config

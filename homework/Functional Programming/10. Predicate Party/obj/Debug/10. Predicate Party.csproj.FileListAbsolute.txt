@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\10. Predicate Party\bin\Debug\_10.Predicate_Party.exe.config

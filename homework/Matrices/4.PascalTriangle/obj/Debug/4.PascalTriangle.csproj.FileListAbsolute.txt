@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\Matrices\4.PascalTriangle\bin\Debug\4.PascalTriangle.exe.config
+C:\softuni\C# Advanced\homework\Matrices\4.PascalTriangle\bin\Debug\4.PascalTriangle.exe
+C:\softuni\C# Advanced\homework\Matrices\4.PascalTriangle\bin\Debug\4.PascalTriangle.pdb
+C:\softuni\C# Advanced\homework\Matrices\4.PascalTriangle\obj\Debug\4.PascalTriangle.exe
+C:\softuni\C# Advanced\homework\Matrices\4.PascalTriangle\obj\Debug\4.PascalTriangle.pdb

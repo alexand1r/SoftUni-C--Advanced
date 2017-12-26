@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\4.AcademyGraduation\bin\Debug\4.AcademyGraduation.exe.config
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\4.AcademyGraduation\bin\Debug\4.AcademyGraduation.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\4.AcademyGraduation\bin\Debug\4.AcademyGraduation.pdb
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\4.AcademyGraduation\obj\Debug\4.AcademyGraduation.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\4.AcademyGraduation\obj\Debug\4.AcademyGraduation.pdb

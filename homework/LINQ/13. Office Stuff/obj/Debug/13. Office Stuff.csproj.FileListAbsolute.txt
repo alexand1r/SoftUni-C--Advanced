@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\13. Office Stuff\bin\Debug\_13.Office_Stuff.exe.config

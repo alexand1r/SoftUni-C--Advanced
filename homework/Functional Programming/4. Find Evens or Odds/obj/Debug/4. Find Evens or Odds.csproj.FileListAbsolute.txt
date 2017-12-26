@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\4. Find Evens or Odds\bin\Debug\_4.Find_Evens_or_Odds.exe.config

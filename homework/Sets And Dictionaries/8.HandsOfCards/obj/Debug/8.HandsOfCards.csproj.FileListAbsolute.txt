@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\8.HandsOfCards\bin\Debug\8.HandsOfCards.exe.config
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\8.HandsOfCards\bin\Debug\8.HandsOfCards.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\8.HandsOfCards\bin\Debug\8.HandsOfCards.pdb
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\8.HandsOfCards\obj\Debug\8.HandsOfCards.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\8.HandsOfCards\obj\Debug\8.HandsOfCards.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\8.HandsOfCards\obj\Debug\8.HandsOfCards.pdb

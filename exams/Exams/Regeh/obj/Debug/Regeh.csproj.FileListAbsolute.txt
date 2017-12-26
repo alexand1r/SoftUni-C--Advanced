@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\exams\Exams\Regeh\bin\Debug\Regeh.exe.config
+C:\softuni\C# Advanced\exams\Exams\Regeh\bin\Debug\Regeh.exe
+C:\softuni\C# Advanced\exams\Exams\Regeh\bin\Debug\Regeh.pdb
+C:\softuni\C# Advanced\exams\Exams\Regeh\obj\Debug\Regeh.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\exams\Exams\Regeh\obj\Debug\Regeh.exe
+C:\softuni\C# Advanced\exams\Exams\Regeh\obj\Debug\Regeh.pdb

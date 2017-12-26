@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseNumbersWithAStack\bin\Debug\1.ReverseNumbersWithAStack.exe.config
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseNumbersWithAStack\bin\Debug\1.ReverseNumbersWithAStack.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseNumbersWithAStack\bin\Debug\1.ReverseNumbersWithAStack.pdb
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseNumbersWithAStack\obj\Debug\1.ReverseNumbersWithAStack.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseNumbersWithAStack\obj\Debug\1.ReverseNumbersWithAStack.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseNumbersWithAStack\obj\Debug\1.ReverseNumbersWithAStack.pdb

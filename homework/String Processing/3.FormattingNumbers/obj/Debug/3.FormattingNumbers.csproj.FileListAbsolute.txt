@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\3.FormattingNumbers\bin\Debug\3.FormattingNumbers.exe.config

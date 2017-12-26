@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\String Processing\2.ParseURLs\bin\Debug\2.ParseURLs.exe.config
+C:\softuni\C# Advanced\homework\String Processing\2.ParseURLs\bin\Debug\2.ParseURLs.exe
+C:\softuni\C# Advanced\homework\String Processing\2.ParseURLs\bin\Debug\2.ParseURLs.pdb
+C:\softuni\C# Advanced\homework\String Processing\2.ParseURLs\obj\Debug\2.ParseURLs.exe
+C:\softuni\C# Advanced\homework\String Processing\2.ParseURLs\obj\Debug\2.ParseURLs.pdb

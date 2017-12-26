@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\1. Take Two\bin\Debug\_1.Take_Two.exe.config

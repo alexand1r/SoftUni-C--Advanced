@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\StacksAndQueues\9.StackFibonacci\bin\Debug\9.StackFibonacci.exe.config
+C:\softuni\C# Advanced\homework\StacksAndQueues\9.StackFibonacci\bin\Debug\9.StackFibonacci.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\9.StackFibonacci\bin\Debug\9.StackFibonacci.pdb
+C:\softuni\C# Advanced\homework\StacksAndQueues\9.StackFibonacci\obj\Debug\9.StackFibonacci.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\StacksAndQueues\9.StackFibonacci\obj\Debug\9.StackFibonacci.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\9.StackFibonacci\obj\Debug\9.StackFibonacci.pdb

@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\9. List Of Predicates\bin\Debug\_9.List_Of_Predicates.exe.config

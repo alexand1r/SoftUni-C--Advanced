@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\8.MultiplyBigNumber\bin\Debug\8.MultiplyBigNumber.exe.config

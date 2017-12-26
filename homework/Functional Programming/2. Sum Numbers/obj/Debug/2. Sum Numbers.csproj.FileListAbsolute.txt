@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\2. Sum Numbers\bin\Debug\_2.Sum_Numbers.exe.config

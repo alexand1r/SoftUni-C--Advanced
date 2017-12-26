@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\StacksAndQueues\5.SequenceWithQueue\bin\Debug\5.SequenceWithQueue.exe.config
+C:\softuni\C# Advanced\homework\StacksAndQueues\5.SequenceWithQueue\bin\Debug\5.SequenceWithQueue.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\5.SequenceWithQueue\bin\Debug\5.SequenceWithQueue.pdb
+C:\softuni\C# Advanced\homework\StacksAndQueues\5.SequenceWithQueue\obj\Debug\5.SequenceWithQueue.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\StacksAndQueues\5.SequenceWithQueue\obj\Debug\5.SequenceWithQueue.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\5.SequenceWithQueue\obj\Debug\5.SequenceWithQueue.pdb

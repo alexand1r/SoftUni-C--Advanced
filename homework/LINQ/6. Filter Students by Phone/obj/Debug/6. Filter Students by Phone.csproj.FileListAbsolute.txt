@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\6. Filter Students by Phone\bin\Debug\_6.Filter_Students_by_Phone.exe.config

@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseStrings\bin\Debug\1.ReverseStrings.exe.config
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseStrings\bin\Debug\1.ReverseStrings.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseStrings\bin\Debug\1.ReverseStrings.pdb
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseStrings\obj\Debug\1.ReverseStrings.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseStrings\obj\Debug\1.ReverseStrings.exe
+C:\softuni\C# Advanced\homework\StacksAndQueues\1.ReverseStrings\obj\Debug\1.ReverseStrings.pdb

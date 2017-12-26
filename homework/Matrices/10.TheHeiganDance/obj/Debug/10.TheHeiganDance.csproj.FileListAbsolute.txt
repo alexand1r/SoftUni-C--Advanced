@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\Matrices\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.exe.config
+C:\softuni\C# Advanced\homework\Matrices\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.exe
+C:\softuni\C# Advanced\homework\Matrices\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.pdb
+C:\softuni\C# Advanced\homework\Matrices\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\Matrices\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.exe
+C:\softuni\C# Advanced\homework\Matrices\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.pdb

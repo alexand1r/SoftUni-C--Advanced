@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\2.SetsOfElements\bin\Debug\2.SetsOfElements.exe.config

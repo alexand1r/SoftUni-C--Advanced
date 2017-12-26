@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\7.FixEmails\bin\Debug\7.FixEmails.exe.config

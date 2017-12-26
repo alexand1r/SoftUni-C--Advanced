@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Matrices\2.DiagonalDifference\bin\Debug\2.DiagonalDifference.exe.config

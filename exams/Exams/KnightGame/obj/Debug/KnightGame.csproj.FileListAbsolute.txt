@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\exams\Exams\KnightGame\bin\Debug\KnightGame.exe.config
+C:\softuni\C# Advanced\exams\Exams\KnightGame\bin\Debug\KnightGame.exe
+C:\softuni\C# Advanced\exams\Exams\KnightGame\bin\Debug\KnightGame.pdb
+C:\softuni\C# Advanced\exams\Exams\KnightGame\obj\Debug\KnightGame.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\exams\Exams\KnightGame\obj\Debug\KnightGame.exe
+C:\softuni\C# Advanced\exams\Exams\KnightGame\obj\Debug\KnightGame.pdb

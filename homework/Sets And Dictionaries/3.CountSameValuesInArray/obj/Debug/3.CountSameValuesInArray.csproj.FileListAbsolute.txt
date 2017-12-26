@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\3.CountSameValuesInArray\bin\Debug\3.CountSameValuesInArray.exe.config
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\3.CountSameValuesInArray\bin\Debug\3.CountSameValuesInArray.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\3.CountSameValuesInArray\bin\Debug\3.CountSameValuesInArray.pdb
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\3.CountSameValuesInArray\obj\Debug\3.CountSameValuesInArray.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\3.CountSameValuesInArray\obj\Debug\3.CountSameValuesInArray.exe
+C:\softuni\C# Advanced\homework\Sets And Dictionaries\3.CountSameValuesInArray\obj\Debug\3.CountSameValuesInArray.pdb

@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\3.ParseTags\bin\Debug\3.ParseTags.exe.config

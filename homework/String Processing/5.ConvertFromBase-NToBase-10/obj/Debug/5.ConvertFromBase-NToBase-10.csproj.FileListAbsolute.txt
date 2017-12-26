@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\5.ConvertFromBase-NToBase-10\bin\Debug\5.ConvertFromBase-NToBase-10.exe.config

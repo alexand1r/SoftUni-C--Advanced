@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\5. Filter Students by Email Domain\bin\Debug\_5.Filter_Students_by_Email_Domain.exe.config

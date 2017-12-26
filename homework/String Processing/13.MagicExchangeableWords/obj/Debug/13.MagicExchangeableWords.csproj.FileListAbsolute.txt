@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\13.MagicExchangeableWords\bin\Debug\13.MagicExchangeableWords.exe.config

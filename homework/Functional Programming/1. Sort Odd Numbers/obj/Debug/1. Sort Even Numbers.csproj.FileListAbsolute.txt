@@ -1,0 +1,5 @@
+C:\softuni\C# Advanced\homework\Functional Programming\1. Sort Odd Numbers\bin\Debug\_1.Sort_Odd_Numbers.exe.config
+C:\softuni\C# Advanced\homework\Functional Programming\1. Sort Odd Numbers\bin\Debug\_1.Sort_Odd_Numbers.exe
+C:\softuni\C# Advanced\homework\Functional Programming\1. Sort Odd Numbers\bin\Debug\_1.Sort_Odd_Numbers.pdb
+C:\softuni\C# Advanced\homework\Functional Programming\1. Sort Odd Numbers\obj\Debug\_1.Sort_Odd_Numbers.exe
+C:\softuni\C# Advanced\homework\Functional Programming\1. Sort Odd Numbers\obj\Debug\_1.Sort_Odd_Numbers.pdb

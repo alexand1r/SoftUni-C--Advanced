@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\String Processing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.exe.config

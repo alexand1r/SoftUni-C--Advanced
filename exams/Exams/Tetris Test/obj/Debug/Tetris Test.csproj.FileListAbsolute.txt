@@ -1,0 +1,6 @@
+C:\softuni\C# Advanced\exams\Exams\Tetris Test\bin\Debug\Tetris Test.exe.config
+C:\softuni\C# Advanced\exams\Exams\Tetris Test\obj\Debug\Tetris Test.csprojResolveAssemblyReference.cache
+C:\softuni\C# Advanced\exams\Exams\Tetris Test\bin\Debug\Tetris Test.exe
+C:\softuni\C# Advanced\exams\Exams\Tetris Test\bin\Debug\Tetris Test.pdb
+C:\softuni\C# Advanced\exams\Exams\Tetris Test\obj\Debug\Tetris Test.exe
+C:\softuni\C# Advanced\exams\Exams\Tetris Test\obj\Debug\Tetris Test.pdb

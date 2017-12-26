@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\LINQ\8. Weak Students\bin\Debug\_8.Weak_Students.exe.config

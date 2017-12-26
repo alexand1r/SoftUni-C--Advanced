@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\7. Predicate For Names\bin\Debug\_7.Predicate_For_Names.exe.config

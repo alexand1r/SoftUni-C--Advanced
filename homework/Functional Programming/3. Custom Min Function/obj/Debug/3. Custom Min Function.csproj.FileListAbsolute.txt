@@ -1,0 +1,1 @@
+C:\softuni\C# Advanced\homework\Functional Programming\3. Custom Min Function\bin\Debug\_3.Custom_Min_Function.exe.config
